@@ -1,0 +1,10 @@
+*~
+tags
+pkg
+coverage
+doc
+reports
+Gemfile.lock
+.rbx
+.bundle
+*.gem
